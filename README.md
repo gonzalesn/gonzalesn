@@ -10,4 +10,5 @@ Hello!
   listen to the wisdom they have to offer.
   
   The best way to contact me is my work email = () => gonzalesn@dnb.com
+  
   You can also find me on LinkedIn = () => https://www.linkedin.com/in/nikegonz

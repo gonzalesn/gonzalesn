@@ -6,8 +6,8 @@ Hello!
   to further my knowledge in HTML & CSS and JavaScript. I enjoy walking my two dogs, Tex(German Shepherd) and Chloe(Terrier/Chihuahua Mix). I also like
   to brew my own beer.
   
-  I'm very excited to be joining the team here at D&B. I'm looking forward to not only contribute to the projects, but also learn from developers in the industry and
+  I'm very excited to be joining the team here at Dun & Bradstreet. I'm looking forward to not only contribute to the projects, but also learn from developers in the industry and
   listen to the wisdom they have to offer.
   
-  The best way to contact me is my D&B email - gonzalesn@dnb.com
-  You can also find me on LinkedIn - https://www.linkedin.com/in/nikegonz
+  The best way to contact me is my work email = () => gonzalesn@dnb.com
+  You can also find me on LinkedIn = () => https://www.linkedin.com/in/nikegonz
